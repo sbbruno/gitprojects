@@ -1,0 +1,10 @@
+var nome = "Bruno";
+
+//promt  comando que serve tbm pr testar funcionalidades no javascript
+
+//comando que assim que abrir o navegador vai perguntar o nome da pessoa
+//var nome = prompt (	"Qual seu nome?"); 
+
+//escrevendo na pagina comando document.write();
+// tudo que vier dps dele é referente ao documento (a pagina) 
+document.write("Esse teste");

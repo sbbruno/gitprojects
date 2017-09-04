@@ -1,0 +1,50 @@
+body{
+
+}
+h1{
+
+}
+img{
+	width:200px; 
+}
+body{
+	margin:0; 
+}
+.teste{
+	width:200px; 
+}
+#titulo{
+	font-size:25px; 
+}
+.teste2{
+	background-color: yellow;
+}
+.div{
+	width:100%;
+	height: 100px; 
+	background: red;
+}
+.menu{
+	width:200px;
+	height: 300px; 
+	background: #0000FF;
+	float:left;   
+}
+.conteudo{
+	width:500px;
+	height: 300px; 
+	background-color:00FF00; 
+}
+.teste{
+	background-color: red;
+}
+.flutuante{
+	position:absolute;
+	top:100px;
+	left:100px;
+}
+.dive{
+	width:100%; 
+	height:100px; 
+	background-color:red; 
+}
